@@ -1,0 +1,72 @@
+FreeNodePick 非商业使用许可证
+FreeNodePick Non-Commercial Use License
+
+版权所有 (c) FreeNodePick contributors
+Copyright (c) FreeNodePick contributors
+
+本许可证适用于 FreeNodePick 软件，包括其源代码、构建产物（二进制
+可执行文件、安装包）及随附文档（以下统称「本软件」）。获取、下载、
+使用本软件，即表示接受以下条款。
+
+一、授权（非商业）
+
+在遵守本许可证全部条款的前提下，授予任何人免费的、非排他的、
+可撤销的许可，可以：
+
+  1. 为学习、研究与个人测试之目的，运行和使用本软件；
+  2. 复制本软件的源代码与文档，并出于上述目的修改之；
+  3. 非商业地再分发本软件或其修改版本（源代码形式或二进制形式）。
+
+二、限制：仅供学习测试，严禁商用
+
+  1. 本软件仅供学习、研究与个人测试使用。严禁将本软件用于任何
+     商业用途。商业用途包括但不限于：
+       (a) 以出售、出租、订阅收费或其它任何形式收费提供本软件
+           或其修改版本；
+       (b) 将本软件或其修改版本捆绑、预装、集成进任何收费产品、
+           营利性服务或商业解决方案中分发或提供服务；
+       (c) 以为他人部署、托管、运维、定制本软件为名义直接或
+           间接收取费用；
+       (d) 以广告变现、付费引流等方式，借分发或推广本软件获取
+           商业利益。
+  2. 再分发本软件或其修改版本时，必须保留本许可证全文与版权
+     声明，并注明原项目名称「FreeNodePick」及原始来源，不得
+     移除或篡改本节的非商业限制。
+  3. 不得声称本软件或其修改版本由官方授权用于商业用途；未经
+     版权持有人事先书面许可，不得以商业方式使用「FreeNodePick」
+     名称及相关标识进行宣传推广。
+
+三、数据说明
+
+本软件聚合、展示的节点数据来自第三方公开项目，其权利与使用
+条款归各数据来源项目所有，不属于本许可证的授权范围，使用者应
+自行遵守各来源的条款。
+
+四、无担保与责任限制
+
+本软件按「现状」（AS IS）提供，不附带任何明示或暗示的担保，
+包括但不限于适销性、适用于特定用途及不侵权的担保。在任何
+情况下，版权持有人与贡献者均不对因使用或无法使用本软件而
+产生的任何索赔、损害或责任（包括直接、间接、附带或后果性
+损失）承担责任。
+
+五、其他
+
+若本许可证任一条款被认定为无效或不可执行，不影响其余条款的
+效力。本软件仅供学习测试，使用者应遵守所在地区的法律法规，
+因使用本软件产生的一切后果由使用者自行承担。
+
+----------------------------------------------------------------
+
+ENGLISH SUMMARY (for reference only; the Chinese text above prevails)
+
+This software is free and open-source for learning, research and
+personal testing ONLY. Commercial use of any kind is strictly
+prohibited, including but not limited to: selling or charging for
+the software or derivatives, bundling or integrating it into paid
+products or for-profit services, and charging fees for deployment,
+hosting or maintenance services based on it. Redistributions must
+retain this license and the non-commercial restriction. Node data
+aggregated by this software belongs to its respective third-party
+sources and is not covered by this license. THE SOFTWARE IS
+PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
